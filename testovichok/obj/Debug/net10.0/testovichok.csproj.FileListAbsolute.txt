@@ -1,0 +1,14 @@
+C:\Users\prosto igrok\source\repos\testovichok\testovichok\bin\Debug\net10.0\testovichok.exe
+C:\Users\prosto igrok\source\repos\testovichok\testovichok\bin\Debug\net10.0\testovichok.deps.json
+C:\Users\prosto igrok\source\repos\testovichok\testovichok\bin\Debug\net10.0\testovichok.runtimeconfig.json
+C:\Users\prosto igrok\source\repos\testovichok\testovichok\bin\Debug\net10.0\testovichok.dll
+C:\Users\prosto igrok\source\repos\testovichok\testovichok\bin\Debug\net10.0\testovichok.pdb
+C:\Users\prosto igrok\source\repos\testovichok\testovichok\obj\Debug\net10.0\testovichok.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prosto igrok\source\repos\testovichok\testovichok\obj\Debug\net10.0\testovichok.AssemblyInfoInputs.cache
+C:\Users\prosto igrok\source\repos\testovichok\testovichok\obj\Debug\net10.0\testovichok.AssemblyInfo.cs
+C:\Users\prosto igrok\source\repos\testovichok\testovichok\obj\Debug\net10.0\testovichok.csproj.CoreCompileInputs.cache
+C:\Users\prosto igrok\source\repos\testovichok\testovichok\obj\Debug\net10.0\testovichok.dll
+C:\Users\prosto igrok\source\repos\testovichok\testovichok\obj\Debug\net10.0\refint\testovichok.dll
+C:\Users\prosto igrok\source\repos\testovichok\testovichok\obj\Debug\net10.0\testovichok.pdb
+C:\Users\prosto igrok\source\repos\testovichok\testovichok\obj\Debug\net10.0\testovichok.genruntimeconfig.cache
+C:\Users\prosto igrok\source\repos\testovichok\testovichok\obj\Debug\net10.0\ref\testovichok.dll
